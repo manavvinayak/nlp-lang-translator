@@ -9,6 +9,9 @@ This project is a **Natural Language Processing (NLP)** based Language Translato
 - Used to detect languages easily.
 - Backend powered by Python for efficient language processing.
 
+  ![image](https://github.com/user-attachments/assets/afc0707c-0fa5-444f-892c-60bf16700cb4)
+
+
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Installation](#installation)
