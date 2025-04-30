@@ -129,8 +129,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - **Python**
 - **Flask**
-- **Google Translate API** (if used)
-```
+- **deep_translator** 
+- **DetectorFactory**
+
 
 
 
