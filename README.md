@@ -1,13 +1,16 @@
 
 # NLP Language Translator
 
-This project is a **Natural Language Processing (NLP)** based Language Translator that allows users to translate text between different languages. It is built using **Django HTML** for the frontend and **Python** for the backend.
+This project is a **Natural Language Processing (NLP)** based Language Translator that allows users to translate text and speech between different languages. It is built using **Django HTML** for the frontend and **Python** for the backend.
 
-## Features
-- Translate text between different languages.
+
+### Features
+- Translate text and speech between different languages.
 - User-friendly interface built with HTML.
+- Supports speech recognition to detect spoken words and translate them into any desired language.
 - Used to detect languages easily.
-- Backend powered by Python for efficient language processing.
+- Backend powered by Python for efficient language and speech processing.
+
 
   ![image](https://github.com/user-attachments/assets/afc0707c-0fa5-444f-892c-60bf16700cb4)
 
