@@ -6,7 +6,6 @@ This project is a **Natural Language Processing (NLP)** based Language Translato
 
 ### Features
 - Translate text and speech between different languages.
-- User-friendly interface built with HTML.
 - Supports speech recognition to detect spoken words and translate them into any desired language.
 - Used to detect languages easily.
 - Backend powered by Python for efficient language and speech processing.
